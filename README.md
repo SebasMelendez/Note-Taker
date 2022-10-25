@@ -2,7 +2,7 @@
 # Note Taker
 
 ## Description
-
+  ![Screen Shot](./assets/images/screenshot.jpeg)
   Welcome to Note Taker! this is an Express.js application that uses API enpoints in the BG to create, Read and Delete data from a quick JSON database! you can write notes and they will be saved globally for everyone to see! so avoid personal info. The endpoints also support Updating, but the UI cannot handle that just yet. heehee
   
 ### Made with:
