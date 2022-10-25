@@ -31,7 +31,9 @@
   npm install
   
 ## Usage
-  it will launch in your localhost:3001/ address in your browser. these notes will be saved locally :) 
+  for the online version, visit [The Heroku App](https://note-taker-byseb.herokuapp.com/)
+
+  for the online version, clone this repo and run npm install. It will launch in your localhost:3001/ address in your browser. these notes will be saved locally :) 
    
 
   ## License
