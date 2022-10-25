@@ -1,19 +1,29 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "1666673989424"
+      "title": "Sample Note one!",
+      "text": "Call Carrie!",
+      "id": "1666675413613"
     },
     {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "1666674042185"
+      "title": "Yep these are dynamic!",
+      "text": "No way",
+      "id": "1666675423174"
     },
     {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "1666674080486"
+      "title": "Did I mention you can delete these?",
+      "text": "you bet! try deleting this one!",
+      "id": "1666675423174"
+    },
+    {
+      "title": "you can also remove this one!",
+      "text": "you bet! try deleting this one!",
+      "id": "1666675423174"
+    },
+    {
+      "title": "Just checkin",
+      "text": "you bet! try deleting this one!",
+      "id": "1666675423174"
     }
   ]
 }

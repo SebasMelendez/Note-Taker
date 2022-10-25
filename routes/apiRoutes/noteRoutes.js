@@ -58,14 +58,9 @@ router.delete('/notes/:id', (req, res) => {
     console.log("delete")
     const result = findById(req.params.id, notes);
     if (result) {
-        if (!validateNote(req.body)) {
-            res.status(400).send('The Note is not properly formatted.');
-          } else {
             const note = deleteNote(req.params.id, req.body, notes);
             res.json(note);
-          }
-        // console.log(result, req.body)
-    } else {
+          } else {
         res.sendStatus(404);
       }
 
